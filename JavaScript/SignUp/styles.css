@@ -1,0 +1,30 @@
+
+#email{
+    display: block;
+    margin-left: -1.6rem;
+    margin-right: -1.6rem;
+    padding: 12px 1.6rem;
+    position: relative;
+    z-index: 0;
+    margin-left: 5px;
+}
+
+#password{
+    display: block;
+    margin-left: -1.6rem;
+    margin-right: -1.6rem;
+    padding: 12px 1.6rem;
+    position: relative;
+    z-index: 0;
+    margin-left: 5px;
+}
+
+#name{
+    display: block;
+    margin-left: -1.6rem;
+    margin-right: -1.6rem;
+    padding: 12px 1.6rem;
+    position: relative;
+    z-index: 0;
+    margin-left: 5px;
+}
